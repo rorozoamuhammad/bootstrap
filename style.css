@@ -1,0 +1,52 @@
+html {
+	position: relative;
+}
+body {
+	margin-bottom: 50px;
+}
+.jumbotron img {
+	width: 200px;
+	border: 5px solid #b9c7bd;
+}
+hr {
+	width: 200px;
+	border: 1px solid black;
+}
+.col-sm-12 h1 {
+	font-weight: bold;
+	font-size: 40px;
+}
+section {
+	min-height: 400px;
+}
+h2 {
+	font-weight: bold;
+	text-transform: capitalize;
+}
+.portfolio {
+	background-color: #eee;
+}
+.col-sm-3 img {
+	width: 300px;
+	height: 250px;
+}
+.contact {
+	min-height: 500px;
+}
+.footer {
+	background-color: black;
+	width: 100%;
+	height: 40px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	left: 0;
+}
+.footer p {
+	line-height: 40px;
+	color: white;
+}
+.footer a {
+	color: lightblue;
+	text-decoration: none;
+}
