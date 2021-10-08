@@ -44,7 +44,23 @@ h2 {
 	height: 250px;
 }
 .contact {
-	min-height: 500px;
+	min-height: 550px;
+}
+.kontak{
+	padding: 20px;
+	border: 3px solid black;
+	margin-top: 30px;
+	border-radius: 15px;
+	background-color: #cffafa;
+	color: black;
+	font-size: 18px;
+}
+.contack {
+	border: 3px solid black;
+	margin-top: 30px;
+	padding: 20px;
+	border-radius: 15px;
+	margin-bottom: 20px;
 }
 .footer {
 	background-color: black;
